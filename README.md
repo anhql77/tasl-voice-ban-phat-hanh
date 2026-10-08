@@ -4,7 +4,7 @@
 
 It is a Windows application for turning English scripts into production-ready voice audio and subtitles for long-form storytelling workflows.
 
-**Current stable public version: v1.1.2**
+**Current stable public version: v1.2.1**
 
 ## What TASL Voice does
 
