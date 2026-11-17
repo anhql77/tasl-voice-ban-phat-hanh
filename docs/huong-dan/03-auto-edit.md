@@ -36,7 +36,7 @@ Danh sách kịch bản nằm bên trái; bấm vào một kịch bản để ch
 2. Bấm **«Dùng Key gợi ý cho cả lô»** nếu muốn lấy gợi ý của máy.
 3. **«Giọng đọc»**: bạn tự chọn giọng (chưa có giọng mặc định theo Key).
 4. **«Tốc độ đọc»**: kéo thanh nếu muốn chậm hoặc nhanh hơn.
-5. **«Đoạn mở đầu»**: bấm vào câu mà bạn muốn đoạn mở đầu kết thúc, hoặc **«Không làm mở đầu riêng»**.
+5. **«Đoạn mở đầu»**: bấm vào câu mà bạn muốn đoạn mở đầu kết thúc. Ở bản 1.3.3 mọi video đều có đoạn mở đầu; lựa chọn bỏ đoạn mở đầu sẽ có ở bản vá kế tiếp.
 6. **«Kiểu phần thân»**: **«Ảnh theo lời kể»** hoặc **«Một ảnh + sóng âm»** (nhanh, nhẹ).
 7. **«Kết quả muốn nhận»**: **«Video MP4 hoàn chỉnh»**, **«Bản nháp CapCut (để chỉnh sửa tiếp)»**, hoặc cả hai.
 8. **«Áp dụng cho cả lô»**: dùng chung giọng đọc, tốc độ, kiểu phần thân và kết quả cho các video khác. Key và đoạn mở đầu luôn riêng từng video.
@@ -89,10 +89,10 @@ Video chỉ cần giọng đọc chạy trên một ảnh nền:
 1. Ở bước «Nạp kịch bản», thêm kịch bản như thường. Máy tạo thư mục cho từng kịch bản.
 2. Bỏ **một ảnh nền** của bạn vào thư mục `03_Hinh_anh` của video đó (máy lấy ảnh đầu tiên theo tên tệp).
 3. Ở bước «Thiết lập», mục **«Kiểu phần thân»** chọn **«Một ảnh + sóng âm»**.
-4. Mục **«Đoạn mở đầu»**: bấm **«Không làm mở đầu riêng»** nếu không cần đoạn mở đầu bằng ảnh và đoạn video.
+4. Mục **«Đoạn mở đầu»**: chọn câu kết thúc đoạn mở đầu như thường (bản 1.3.3 luôn làm đoạn mở đầu).
 5. Vẫn phải chọn Key và giọng đọc, rồi bấm **«Bắt đầu sản xuất»**.
 
-Thư mục `03_Hinh_anh` trống thì video dừng ở «Cần xử lý». Kiểu này chưa đổi ảnh từng cảnh ở «Duyệt & chỉnh» được.
+Thư mục `03_Hinh_anh` trống thì video dừng ở «Cần xử lý»: bỏ ảnh nền vào rồi bấm «Thử lại». Kiểu này chưa đổi ảnh từng cảnh ở «Duyệt & chỉnh» được. Bản này vẫn gửi chữ kịch bản cho AI chia cảnh như kiểu thường (tốn tiền AI gần bằng); bản vá kế tiếp sẽ bỏ bước này cho kiểu một ảnh, hỏi ảnh nền ngay ở bước «Thiết lập» và cho bỏ đoạn mở đầu.
 
 ## Tắt app giữa chừng
 
