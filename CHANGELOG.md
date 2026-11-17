@@ -2,7 +2,7 @@
 
 Bản cài và ghi chú từng bản nằm ở mục [Releases](https://github.com/anhql77/tasl-voice-ban-phat-hanh/releases).
 
-## 1.3.3 — sắp phát hành
+## 1.3.3 — 17/11/2026
 
 - Thêm **Auto Edit**: nạp nhiều kịch bản một lượt, máy làm ra video MP4 và/hoặc bản nháp CapCut.
 - Nhanh hơn ở khâu đọc giọng (card RTX 30 trở lên), xử lý âm thanh sau khi đọc và dựng hình.

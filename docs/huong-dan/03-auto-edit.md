@@ -1,4 +1,4 @@
-# 03 - Auto Edit (bản 1.3.3, sắp phát hành)
+# 03 - Auto Edit (từ bản 1.3.3)
 
 Bạn đưa vào các tệp kịch bản, bấm một nút, máy làm ra video. Mục **«Auto Edit»** nằm ở menu bên trái, ngay dưới **«Tạo giọng»**.
 

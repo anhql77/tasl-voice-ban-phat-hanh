@@ -1,4 +1,4 @@
-# 04 - Duyệt & chỉnh (bản 1.3.3, sắp phát hành)
+# 04 - Duyệt & chỉnh (từ bản 1.3.3)
 
 Dùng khi video đã xong mà bạn muốn đổi ảnh của vài cảnh. Video ghi «Xong · N cảnh nên xem lại» là video có ảnh máy chưa chắc; xem thấy ổn thì dùng luôn.
 

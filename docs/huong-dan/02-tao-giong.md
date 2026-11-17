@@ -27,4 +27,4 @@ Mục **Tạo giọng** biến kịch bản thành giọng đọc (MP3) và ph�
 <!-- ẢNH CẦN CHỤP: màn Tạo giọng, có kịch bản đã nạp và hàng chờ -->
 <!-- ẢNH CẦN CHỤP: thư viện giọng -->
 
-> Muốn ra cả video từ nhiều kịch bản, dùng [Auto Edit](03-auto-edit.md) (bản 1.3.3, sắp phát hành).
+> Muốn ra cả video từ nhiều kịch bản, dùng [Auto Edit](03-auto-edit.md) (từ bản 1.3.3).

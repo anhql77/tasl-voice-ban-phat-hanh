@@ -8,7 +8,7 @@
 [![Hướng dẫn cài](https://img.shields.io/badge/H%C6%B0%E1%BB%9Bng%20d%E1%BA%ABn-C%C3%A0i%20%C4%91%E1%BA%B7t-2e9e5b?style=for-the-badge)](docs/huong-dan/01-cai-dat.md)
 [![English](https://img.shields.io/badge/English-README-555?style=for-the-badge)](docs/readme/README.en.md)
 
-Phiên bản ổn định đang phát hành: **1.3.2** · Bản **1.3.3** (có Auto Edit): *sắp phát hành*
+Phiên bản mới nhất: **1.3.3** (17/11/2026) — có **Auto Edit**
 
 </div>
 
@@ -51,7 +51,6 @@ Chi tiết: [01 - Cài đặt](docs/huong-dan/01-cai-dat.md).
 
 ## Có gì mới ở 1.3.3
 
-> **Sắp phát hành.** Chưa tải được cho tới khi có thông báo đăng chính thức.
 
 - **Auto Edit**: nạp nhiều kịch bản một lượt, máy làm ra video MP4 và/hoặc bản nháp CapCut. Một video lỗi thì chỉ video đó dừng, các video khác vẫn chạy.
 - **Nhanh hơn** ở khâu đọc giọng (card RTX 30 trở lên), xử lý âm thanh và dựng hình.

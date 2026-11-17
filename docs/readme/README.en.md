@@ -7,7 +7,7 @@
 [![Download latest](https://img.shields.io/badge/Download-Latest%20release-0b6bcb?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/anhql77/tasl-voice-ban-phat-hanh/releases/latest)
 [![Tiếng Việt](https://img.shields.io/badge/Ti%E1%BA%BFng%20Vi%E1%BB%87t-README-555?style=for-the-badge)](../../README.md)
 
-Current stable version: **1.3.2** · Version **1.3.3** (adds Auto Edit): *coming soon*
+Latest version: **1.3.3** (17 Nov 2026) — adds **Auto Edit**
 
 </div>
 
