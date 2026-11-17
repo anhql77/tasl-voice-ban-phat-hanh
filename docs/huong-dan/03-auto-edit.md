@@ -86,11 +86,11 @@ Muốn đổi ảnh sau khi xong: xem [04 - Duyệt và chỉnh](04-duyet-va-chi
 
 Video chỉ cần giọng đọc chạy trên một ảnh nền:
 
-1. Ở bước «Nạp kịch bản», thêm kịch bản như thường. Máy tạo thư mục cho từng kịch bản.
-2. Bỏ **một ảnh nền** của bạn vào thư mục `03_Hinh_anh` của video đó (máy lấy ảnh đầu tiên theo tên tệp).
-3. Ở bước «Thiết lập», mục **«Kiểu phần thân»** chọn **«Một ảnh + sóng âm»**.
-4. Mục **«Đoạn mở đầu»**: chọn câu kết thúc đoạn mở đầu như thường (bản 1.3.3 luôn làm đoạn mở đầu).
-5. Vẫn phải chọn Key và giọng đọc, rồi bấm **«Bắt đầu sản xuất»**.
+1. Ở bước «Nạp kịch bản», thêm kịch bản như thường.
+2. Ở bước «Thiết lập», mục **«Kiểu phần thân»** chọn **«Một ảnh + sóng âm»**.
+3. Mục **«Đoạn mở đầu»**: chọn câu kết thúc đoạn mở đầu như thường (bản 1.3.3 luôn làm đoạn mở đầu).
+4. Chọn Key và giọng đọc, rồi bấm **«Bắt đầu sản xuất»**. Lúc này máy mới tạo thư mục cho từng video (đừng tự tạo trước, máy sẽ đặt tên khác).
+5. Trong lúc máy còn đọc giọng và chia cảnh, bỏ **một ảnh nền** (png hoặc jpg) vào thư mục lưu › tên video › `03_Hinh_anh` (máy lấy ảnh đầu tiên theo tên tệp).
 
 Thư mục `03_Hinh_anh` trống thì video dừng ở «Cần xử lý»: bỏ ảnh nền vào rồi bấm «Thử lại». Kiểu này chưa đổi ảnh từng cảnh ở «Duyệt & chỉnh» được. Bản này vẫn gửi chữ kịch bản cho AI chia cảnh như kiểu thường (tốn tiền AI gần bằng); bản vá kế tiếp sẽ bỏ bước này cho kiểu một ảnh, hỏi ảnh nền ngay ở bước «Thiết lập» và cho bỏ đoạn mở đầu.
 
