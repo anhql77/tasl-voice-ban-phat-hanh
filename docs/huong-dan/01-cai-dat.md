@@ -29,7 +29,7 @@ Lên bản 1.3.3: xem [06 - Lên bản 1.3.3](06-len-ban-1.3.3.md).
 
 ## Muốn dùng Auto Edit
 
-Cài thêm **G-Labs Studio** (công cụ tạo ảnh, của tác giả khác). Máy chưa có thì màn Auto Edit hiện nút **«Tải G-Labs Studio»** mở trang tải chính thức; cài xong, đăng nhập tài khoản rồi bấm **«Kiểm tra lại»**.
+Cài thêm **G-Labs Studio** (công cụ tạo ảnh, của tác giả khác). Máy chưa có thì màn Auto Edit hiện nút **«Tải G-Labs Studio»** mở trang tải chính thức; tải tệp `G-Labs-Studio-setup.exe`, cài xong, đăng nhập tài khoản rồi bấm **«Kiểm tra lại»**.
 
 ## Gặp trở ngại?
 

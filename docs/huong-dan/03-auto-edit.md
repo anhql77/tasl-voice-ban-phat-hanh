@@ -8,7 +8,7 @@ Có 4 bước: **Nạp kịch bản → Thiết lập → Sản xuất → Duy�
 
 ## Chuẩn bị
 
-1. Mở **G-Labs Studio** và đăng nhập các tài khoản bạn có. Máy chưa cài: bấm nút **«Tải G-Labs Studio»** trên màn Auto Edit, cài, rồi bấm **«Kiểm tra lại»**. Khai đúng số tài khoản đang đăng nhập (mặc định là 1).
+1. Mở **G-Labs Studio** và đăng nhập các tài khoản bạn có. Máy chưa cài: bấm nút **«Tải G-Labs Studio»** trên màn Auto Edit, cài, rồi bấm **«Kiểm tra lại»**. Ở bước «Thiết lập», khung «Chung cho cả lô», bấm «+» / «−» ở ô **«Tài khoản trong công cụ tạo ảnh»** cho đúng số tài khoản đang đăng nhập (mặc định là 1).
 2. Trong TASL, mở **«Kết nối AI»** và nối một dịch vụ AI.
 3. Chuẩn bị kịch bản dạng `.txt` hoặc `.docx`, mỗi tệp là một video.
 4. Chừa ổ đĩa: khoảng 10 GB cho mỗi video (số ước, chưa đo thật).
@@ -40,7 +40,7 @@ Danh sách kịch bản nằm bên trái; bấm vào một kịch bản để ch
 6. **«Kiểu phần thân»**: **«Ảnh theo lời kể»** hoặc **«Một ảnh + sóng âm»** (nhanh, nhẹ).
 7. **«Kết quả muốn nhận»**: **«Video MP4 hoàn chỉnh»**, **«Bản nháp CapCut (để chỉnh sửa tiếp)»**, hoặc cả hai.
 8. **«Áp dụng cho cả lô»**: dùng chung giọng đọc, tốc độ, kiểu phần thân và kết quả cho các video khác. Key và đoạn mở đầu luôn riêng từng video.
-9. Khung **«Chung cho cả lô»**: chọn **«Tốc độ tạo ảnh»** (Bình thường, Nhanh, Tối đa) và kiểm số ở **«Tài khoản trong G-Labs»**.
+9. Khung **«Chung cho cả lô»**: chọn **«Tốc độ tạo ảnh»** (Bình thường, Nhanh, Tối đa) và bấm «+» / «−» ở **«Tài khoản trong công cụ tạo ảnh»** cho đúng số tài khoản đang đăng nhập. Chưa khai thì máy coi là 1 tài khoản (5 ảnh cùng lúc ở mức Tối đa).
 10. Video nào còn ghi **«Chưa sẵn sàng»** thì chọn nốt mục còn thiếu.
 11. Bấm **«Bắt đầu sản xuất»** ở góc dưới bên phải.
 
@@ -81,6 +81,18 @@ Trong khung «Theo dõi trực tiếp» bạn thấy ảnh mẫu nhân vật (4 
 Một video lỗi không làm dừng cả lô: máy đánh dấu «Cần xử lý» rồi làm video kế tiếp.
 
 Muốn đổi ảnh sau khi xong: xem [04 - Duyệt và chỉnh](04-duyet-va-chinh.md).
+
+## Cho kênh nuôi: video một tấm ảnh
+
+Video chỉ cần giọng đọc chạy trên một ảnh nền:
+
+1. Ở bước «Nạp kịch bản», thêm kịch bản như thường. Máy tạo thư mục cho từng kịch bản.
+2. Bỏ **một ảnh nền** của bạn vào thư mục `03_Hinh_anh` của video đó (máy lấy ảnh đầu tiên theo tên tệp).
+3. Ở bước «Thiết lập», mục **«Kiểu phần thân»** chọn **«Một ảnh + sóng âm»**.
+4. Mục **«Đoạn mở đầu»**: bấm **«Không làm mở đầu riêng»** nếu không cần đoạn mở đầu bằng ảnh và đoạn video.
+5. Vẫn phải chọn Key và giọng đọc, rồi bấm **«Bắt đầu sản xuất»**.
+
+Thư mục `03_Hinh_anh` trống thì video dừng ở «Cần xử lý». Kiểu này chưa đổi ảnh từng cảnh ở «Duyệt & chỉnh» được.
 
 ## Tắt app giữa chừng
 
