@@ -12,13 +12,10 @@ Dùng khi video đã xong mà bạn muốn đổi ảnh của vài cảnh. Video
 
 3. Bấm vào cảnh muốn đổi ảnh.
 4. Nếu muốn, gõ điều cần đổi vào ô ghi chú, ví dụ: *trời tối hơn, thấy rõ mặt cô gái*.
-5. Bấm **«Tạo lại ảnh này»** và chờ ảnh mới.
-6. Bấm **«Dùng ảnh mới»** hoặc **«Giữ ảnh cũ»**.
-
-![So ảnh cũ và ảnh mới](../anh/so-sanh-anh.png)
-
-7. Chưa ưng thì bấm **«Tạo lại lần nữa»**; có sẵn ảnh trên máy thì bấm **«Dùng ảnh của tôi…»**.
-8. Đổi xong mọi cảnh rồi mới bấm **«Dựng lại video»** — một lần cho tất cả cảnh đã đổi.
+5. Bấm **«Tạo lại ảnh này»**: cảnh được đánh dấu là đã đổi (gạch xanh). Ảnh mới **chưa** hiện ngay; máy tạo ảnh mới trong lượt «Dựng lại video».
+6. Có sẵn ảnh trên máy thì bấm **«Dùng ảnh của tôi…»** thay cho bước 5.
+7. Làm lại bước 3–6 cho các cảnh khác.
+8. Đánh dấu xong mọi cảnh rồi mới bấm **«Dựng lại video»** — một lần cho tất cả cảnh đã đổi. Máy tạo ảnh mới rồi dựng lại.
 
 ![Đã đổi 3 cảnh, sẵn sàng dựng lại](../anh/da-doi-3-canh.png)
 
@@ -26,7 +23,7 @@ Dùng khi video đã xong mà bạn muốn đổi ảnh của vài cảnh. Video
 
 ![Đã có bản mới](../anh/da-co-ban-moi.png)
 
-10. Bấm **«Mở thành phẩm»** để xem video, hoặc **«Mở nháp CapCut»** để sửa tiếp trong CapCut.
+10. Bấm **«Mở thành phẩm»** để xem video, hoặc **«Mở nháp CapCut»** để sửa tiếp trong CapCut. Ảnh mới chưa ưng thì làm lại từ bước 3.
 
 *(Ảnh chụp bằng dữ liệu mẫu.)*
 

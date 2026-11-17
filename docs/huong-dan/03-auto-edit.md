@@ -8,7 +8,7 @@ Có 4 bước: **Nạp kịch bản → Thiết lập → Sản xuất → Duy�
 
 ## Chuẩn bị
 
-1. Mở **G-Labs** và đăng nhập các tài khoản bạn có.
+1. Mở **G-Labs Studio** và đăng nhập các tài khoản bạn có. Máy chưa cài: bấm nút **«Tải G-Labs Studio»** trên màn Auto Edit, cài, rồi bấm **«Kiểm tra lại»**. Khai đúng số tài khoản đang đăng nhập (mặc định là 1).
 2. Trong TASL, mở **«Kết nối AI»** và nối một dịch vụ AI.
 3. Chuẩn bị kịch bản dạng `.txt` hoặc `.docx`, mỗi tệp là một video.
 4. Chừa ổ đĩa: khoảng 10 GB cho mỗi video (số ước, chưa đo thật).
@@ -44,7 +44,9 @@ Danh sách kịch bản nằm bên trái; bấm vào một kịch bản để ch
 10. Video nào còn ghi **«Chưa sẵn sàng»** thì chọn nốt mục còn thiếu.
 11. Bấm **«Bắt đầu sản xuất»** ở góc dưới bên phải.
 
-Nút bị mờ thì đọc dòng chữ vàng bên cạnh: nó nói còn thiếu gì.
+Nút bị mờ thì đọc dòng chữ vàng bên cạnh: nó nói còn thiếu gì. Lần đầu vào Auto Edit, app tự tải phần dựng video; nút sáng lên khi tải xong.
+
+**«Tốc độ tạo ảnh»**: Bình thường, Nhanh, Tối đa ứng với 3, 4, 5 ảnh cùng lúc cho mỗi tài khoản. G-Labs hay báo lỗi thì chọn Bình thường.
 
 <!-- ẢNH CẦN CHỤP: bước Thiết lập, một video đã chọn đủ Key, giọng, kiểu phần thân -->
 

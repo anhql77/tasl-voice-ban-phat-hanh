@@ -6,7 +6,7 @@
 
 1. Máy dùng Windows 10 hoặc Windows 11, 64-bit.
 2. Còn trống ít nhất 15 GB ổ đĩa. Nếu dùng Auto Edit, chừa thêm khoảng 10 GB cho mỗi video (số ước, chưa đo thật).
-3. Nên có card đồ hoạ NVIDIA, từ 8 GB bộ nhớ trở lên, để chạy nhanh.
+3. Nên có card đồ hoạ NVIDIA, từ 8 GB bộ nhớ trở lên, để chạy nhanh. Chế độ đọc giọng nhanh của bản 1.3.3 cần RTX 30 trở lên.
 4. Có mạng trong lúc cài.
 
 ## Các bước
@@ -23,7 +23,13 @@
 
 ## Cập nhật
 
-TASL Voice có bộ cập nhật: khi có bản mới, app báo cho bạn.
+TASL Voice có bộ cập nhật: khi có bản mới, app báo cho bạn. Hàng chờ và dự án cũ được giữ nguyên.
+
+Lên bản 1.3.3: xem [06 - Lên bản 1.3.3](06-len-ban-1.3.3.md).
+
+## Muốn dùng Auto Edit
+
+Cài thêm **G-Labs Studio** (công cụ tạo ảnh, của tác giả khác). Máy chưa có thì màn Auto Edit hiện nút **«Tải G-Labs Studio»** mở trang tải chính thức; cài xong, đăng nhập tài khoản rồi bấm **«Kiểm tra lại»**.
 
 ## Gặp trở ngại?
 

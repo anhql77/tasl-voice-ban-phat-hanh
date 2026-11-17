@@ -36,7 +36,7 @@ Phiên bản ổn định đang phát hành: **1.3.2** · Bản **1.3.3** (có A
 | Mục | Cần | Ghi chú |
 |---|---|---|
 | Hệ điều hành | Windows 10 hoặc Windows 11, 64-bit | |
-| Card đồ hoạ | NVIDIA (nên có) | Để chạy nhanh trong thực tế |
+| Card đồ hoạ | NVIDIA (nên có) | Để chạy nhanh trong thực tế. Chế độ đọc giọng nhanh của bản 1.3.3 cần RTX 30 trở lên |
 | Bộ nhớ card đồ hoạ | Từ 8 GB trở lên (nên có) | |
 | Ổ đĩa trống | Từ 15 GB trở lên (nên có) | Auto Edit cần thêm khoảng 10 GB cho mỗi video (số ước, chưa đo thật) |
 | Mạng | Cần khi cài | |
@@ -54,11 +54,12 @@ Chi tiết: [01 - Cài đặt](docs/huong-dan/01-cai-dat.md).
 > **Sắp phát hành.** Chưa tải được cho tới khi có thông báo đăng chính thức.
 
 - **Auto Edit**: nạp nhiều kịch bản một lượt, máy làm ra video MP4 và/hoặc bản nháp CapCut. Một video lỗi thì chỉ video đó dừng, các video khác vẫn chạy.
-- **Nhanh hơn** ở khâu đọc giọng, xử lý âm thanh và dựng hình.
-- **Hình đều hơn**: mỗi nhân vật có ảnh mẫu làm trước để người trong các cảnh giống nhau.
+- **Nhanh hơn** ở khâu đọc giọng (card RTX 30 trở lên), xử lý âm thanh và dựng hình.
+- **Hình đều hơn**: mỗi nhân vật có ảnh mẫu làm trước; mỗi kịch bản có một **Key** quyết định thế giới, màu và ánh sáng của ảnh.
 - **Sửa từng cảnh** ở bước Duyệt & chỉnh, chỉ dựng lại khúc có cảnh đổi.
+- Máy chưa có G-Labs Studio: app hiện nút **«Tải G-Labs Studio»**.
 
-Chi tiết: [Ghi chú phát hành 1.3.3](docs/phat-hanh/v1.3.3.md).
+Chi tiết: [Ghi chú phát hành 1.3.3](docs/phat-hanh/v1.3.3.md). Đang dùng bản cũ: [việc cần làm khi lên 1.3.3](docs/huong-dan/06-len-ban-1.3.3.md).
 
 ## Hướng dẫn sử dụng
 
@@ -69,11 +70,14 @@ Chi tiết: [Ghi chú phát hành 1.3.3](docs/phat-hanh/v1.3.3.md).
 | [03 - Auto Edit](docs/huong-dan/03-auto-edit.md) | Nạp kịch bản, thiết lập, sản xuất (bản 1.3.3) |
 | [04 - Duyệt và chỉnh](docs/huong-dan/04-duyet-va-chinh.md) | Đổi ảnh từng cảnh, dựng lại |
 | [05 - Khắc phục lỗi](docs/huong-dan/05-khac-phuc-loi.md) | Khi video báo «Cần xử lý» |
+| [06 - Lên bản 1.3.3](docs/huong-dan/06-len-ban-1.3.3.md) | Việc làm một lần trên mỗi máy khi cập nhật |
 
 <details>
 <summary><b>Câu hỏi thường gặp</b></summary>
 
 **Có cần tạo giọng trước khi dùng Auto Edit không?** Không. Auto Edit tự tạo giọng. Kịch bản đã có giọng thì máy dùng lại.
+
+**Đọc giọng xong, CapCut chạy chậm?** App giữ bộ nhớ card 30 phút sau khi đọc để bài kế bắt đầu ngay. Đóng TASL Voice là hết.
 
 **Đổi một ảnh có phải dựng lại cả video không?** Không. Máy chỉ dựng lại khúc 10 phút có cảnh đó.
 

@@ -5,7 +5,11 @@ Bản cài và ghi chú từng bản nằm ở mục [Releases](https://github.c
 ## 1.3.3 — sắp phát hành
 
 - Thêm **Auto Edit**: nạp nhiều kịch bản một lượt, máy làm ra video MP4 và/hoặc bản nháp CapCut.
-- Nhanh hơn ở khâu đọc giọng, xử lý âm thanh sau khi đọc và dựng hình.
+- Nhanh hơn ở khâu đọc giọng (card RTX 30 trở lên), xử lý âm thanh sau khi đọc và dựng hình.
+- **Key của kịch bản** (Farm, Cowboy, Mountain man, Alien, Homeless, Khác) quyết định thế giới, màu và ánh sáng của ảnh.
+- Ô «Mỗi khối giọng một ảnh» mặc định tắt: truyện 2 giờ khoảng 250–320 ảnh.
+- Sau khi đọc xong, app giữ bộ nhớ card 30 phút để bài kế bắt đầu ngay.
+- Nút «Tải G-Labs Studio» khi máy chưa có.
 - Ảnh mẫu nhân vật làm trước; máy tự kiểm và tạo lại ảnh chưa đạt.
 - Bước **Duyệt & chỉnh**: đổi ảnh từng cảnh, chỉ dựng lại khúc có cảnh đổi.
 - Đoạn mở đầu không còn bị chặn ở 3 phút.
